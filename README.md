@@ -21,14 +21,18 @@ Users should be able to: the first challenge to form validation and response the
 
 ### Screenshot
 
+- Desktop
+
 ![Desktop](./screenshot/desktop.png)
+
+- Mobile
 
 ![Mobile](./screenshot/mobile.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/Muktadirnayem66/-sign-up-form.git)
+- Live Site URL: [sign up form](https://muktadirnayem66.github.io/-sign-up-form/)
 
 
 ### Built with
